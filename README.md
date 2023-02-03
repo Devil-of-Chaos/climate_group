@@ -8,7 +8,8 @@ Inspired/copied from light_group component (https://github.com/home-assistant/ho
 ## How to install:
 
 ### HACS
-Add this repo (https://github.com/daenny/climate_group) to the HACS store and install from there.
+Forked from https://github.com/daenny/climate_group to quick fix setting Temperature
+Add this repo (https://github.com/Devil-of-Chaos/climate_group) to the HACS store and install from there.
 
 ### local install
 Put in "custom_components" folder located in hass.io inside the config folder.
